@@ -1,0 +1,9 @@
+***
+### 강사소개
+
+김영욱 Hello AI / Microsoft Regional Director / Microsoft AI MVP
+
+![강사소개](https://github.com/KoreaEva/HOL/blob/master/AzureOpenAI/images/youngwook_intro.png?raw=true)
+- linkedin [https://www.linkedin.com/in/%EC%98%81%EC%9A%B1-%EA%B9%80-315a4831/](https://www.linkedin.com/in/%EC%98%81%EC%9A%B1-%EA%B9%80-315a4831/)
+- youtube [영욱 스튜디오](https://www.youtube.com/@youngwook)
+- Community: Korea Azure and AI Group
