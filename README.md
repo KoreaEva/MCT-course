@@ -1,5 +1,6 @@
 # MCT Course에 오신 여러분을 환영합니다. 
 
+[0. MCT 시강 발표 순서](./발표순서20251226.md)<br>
 [1. 강사소개](./introduce_trainer.md)<br>
 [2. 교육 자료 MOC](https://1drv.ms/f/c/e04dc3bec3161f8b/EgHmi6-ThplIpLQlvUtosyIBAZWjmuDi49tpYGu_ILqppA?e=xiOUPI)<br>
 [3. Microsoft Learn AI-102](https://learn.microsoft.com/ko-kr/credentials/certifications/azure-ai-engineer/?practice-assessment-type=certification)
